@@ -1,2 +1,2 @@
 # agenda
-django projeto servidor ubunto
+django projeto servidor ubuntu
